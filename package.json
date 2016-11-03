@@ -4,8 +4,7 @@
   "description": "Nahual app canje de tapas | Uruguay 2015",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "bower"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
