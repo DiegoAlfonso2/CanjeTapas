@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/NahualUY/CanjeTapas",
   "dependencies": {
-    "express": "^4.11.1"
+    "express": "^4.11.1",
+    "bower": "latest"
   }
 }
